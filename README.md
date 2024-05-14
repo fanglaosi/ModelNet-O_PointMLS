@@ -3,7 +3,7 @@
 
 Occlusion-Aware Point Cloud Classification</h1>
   <p align="center">
-    CVIU, 2024
+    arXiv, 2024
     <br />
     <a href="https://github.com/fanglaosi/"><strong>Zhongbin Fang</strong></a>
     ·
