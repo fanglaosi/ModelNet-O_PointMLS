@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">ModelNet-O: A Large-Scale Synthetic Dataset For 
+  <h1 align="center">ModelNet-O: A Large-Scale Synthetic Dataset for 
 
 Occlusion-Aware Point Cloud Classification</h1>
   <p align="center">
@@ -85,12 +85,6 @@ Our proposed critical point sampling method can preserve structural information 
  <img src="./assets/main_vis.jpg" width = 1000  align=center />
 </div>
 
-## Model Zoo
-
-
-| Datasets     |  PointMLS  | PointMLS_basic  | PointMLS_512  | PointMLS_256 | PointMLS_128 |
-|--------------|:----------:|:---------------:|:-------------:|:------------:|:------------:|
-| ModelNet-O   | checkpoint |   checkpoint    |  checkpoint   |  checkpoint  |  checkpoint  |
 
 # 🧐ModelNet40 and ScanObjectNN
 
@@ -108,13 +102,6 @@ python main.py --model PointMLS_basic # training
 python test.py --model PointMLS_basic # testing
 ```
 
-
-## Model Zoo
-
-| Datasets     | PointMLS_basic |
-|--------------|:--------------:|
-| ModelNet40   |   checkpoint   |
-| ScanObjectNN |   checkpoint   |
 
 
 # Acknowledgment
