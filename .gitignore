@@ -2,7 +2,7 @@
 *.pth
 data/
 /.idea/
-
+/venv
 dist/
 build/
 *.egg-info/
