@@ -65,12 +65,8 @@ def main():
         net = torch.nn.DataParallel(net)
         cudnn.benchmark = True
     net.load_state_dict(checkpoint['net'])
-    best = 0
-    for i in range(100):
-        test_out = validate(net, test_loader, criterion, device)
-        print(f"Vanilla out: {test_out}", best)
-        best = max(test_out["acc"], best)
-    print("final best:{}".format(best))
+    test_out = validate(net, test_loader, criterion, device)
+    print(f"Vanilla out: {test_out}")
 
 
 
