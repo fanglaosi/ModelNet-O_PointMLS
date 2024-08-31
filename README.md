@@ -17,8 +17,11 @@ Occlusion-Aware Point Cloud Classification</h1>
   </p>
 
   <p align="center">
+    <a href='https://www.sciencedirect.com/science/article/abs/pii/S1077314224001413'>
+      <img src='https://img.shields.io/badge/CVIU-Paper-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+    </a>
     <a href='https://arxiv.org/pdf/2401.08210.pdf'>
-      <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow' alt='arXiv PDF'>
+      <img src='https://img.shields.io/badge/arXiv-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow' alt='arXiv PDF'>
     </a>
     <a href='https://github.com/fanglaosi/PointMLS' style='padding-left: 0.5rem;'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
