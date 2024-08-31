@@ -1,0 +1,8 @@
+cycler
+einops
+h5py
+pytorch
+pyyaml==5.4.1
+scikit-learn
+scipy
+tqdm

@@ -3,7 +3,7 @@
 
 Occlusion-Aware Point Cloud Classification</h1>
   <p align="center">
-    arXiv, 2024
+    CVIU, 2024
     <br />
     <a href="https://github.com/fanglaosi/"><strong>Zhongbin Fang</strong></a>
     ·
@@ -32,8 +32,9 @@ Occlusion-Aware Point Cloud Classification</h1>
 # 🙂News
 
 [//]: # (- [2024.5.20] Our [PointMLS]&#40;https://arxiv.org/abs/2401.08210&#41; is accepted at [Computer Vision and Image Understanding &#40;CVIU&#41;]&#40;https://www.sciencedirect.com/journal/computer-vision-and-image-understanding&#41;! 🎉🎉🎉)
-- [2023.5.13] [ModelNet-O](https://drive.google.com/file/d/1JLVok7BgmtS0TKLc7lwBwWy2VMND_SEW/view?usp=sharing) and training code are open-sourced.
-- [2024.1.16] Our [PointMLS](https://arxiv.org/abs/2401.08210) is released and GitHub repo is created.
+- [2023.9.1] [ModelNet-O](https://drive.google.com/file/d/1JLVok7BgmtS0TKLc7lwBwWy2VMND_SEW/view?usp=sharing) and training code are open-sourced ❗❗❗
+- [2023.6.9] [ModelNet-O](https://drive.google.com/file/d/1JLVok7BgmtS0TKLc7lwBwWy2VMND_SEW/view?usp=sharing) is accepted by **Computer Vision and Image Understanding(CVIU)**. 🎉🎉🎉
+- [2024.1.16] Our [paper](https://arxiv.org/abs/2401.08210) is released and GitHub repo is created.
 
 
 ## ⚡Hightlights
@@ -115,10 +116,12 @@ Apache-2.0 license.
 
 ```
 @article{fang2024modelnet,
-  title={ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification},
+  title={ModelNet-O: A large-scale synthetic dataset for occlusion-aware point cloud classification},
   author={Fang, Zhongbin and Li, Xia and Li, Xiangtai and Zhao, Shen and Liu, Mengyuan},
-  journal={arXiv preprint arXiv:2401.08210},
-  year={2024}
+  journal={Computer Vision and Image Understanding},
+  pages={104060},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
