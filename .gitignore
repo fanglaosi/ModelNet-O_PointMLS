@@ -6,4 +6,4 @@ data/
 dist/
 build/
 *.egg-info/
-
+/checkpoint
