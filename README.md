@@ -34,7 +34,7 @@ Occlusion-Aware Point Cloud Classification</h1>
 [//]: # (- [2024.5.20] Our [PointMLS]&#40;https://arxiv.org/abs/2401.08210&#41; is accepted at [Computer Vision and Image Understanding &#40;CVIU&#41;]&#40;https://www.sciencedirect.com/journal/computer-vision-and-image-understanding&#41;! 🎉🎉🎉)
 - [2023.9.1] [ModelNet-O](https://drive.google.com/file/d/1JLVok7BgmtS0TKLc7lwBwWy2VMND_SEW/view?usp=sharing) and training code are open-sourced ❗❗❗
 - [2023.6.9] [ModelNet-O](https://drive.google.com/file/d/1JLVok7BgmtS0TKLc7lwBwWy2VMND_SEW/view?usp=sharing) is accepted by **Computer Vision and Image Understanding(CVIU)**. 🎉🎉🎉
-- [2024.1.16] Our [paper](https://arxiv.org/abs/2401.08210) is released and GitHub repo is created.
+- [2024.1.16] Our [paper](https://arxiv.org/abs/2401.08210) is released and GitHub repo is created ❗❗❗
 
 
 ## ⚡Hightlights
